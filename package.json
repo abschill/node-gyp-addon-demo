@@ -3,11 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "bin": {
-    "test0": "no-shebang.js",
-    "test1": "get-argv.js",
-    "test2": "dirname-vs-process.js"
-  },
   "scripts": {
     "main": "node hello-gyp"
   },
