@@ -1,0 +1,13 @@
+{
+  "name": "node-gyp-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add.js",
+  "dependencies": {
+    "bindings": "~1.2.1"
+  },
+  "scripts": {
+    "test": "node add.js"
+  },
+  "gypfile": true
+}
