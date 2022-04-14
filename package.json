@@ -1,0 +1,22 @@
+{
+  "name": "node-gyp-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "test0": "no-shebang.js",
+    "test1": "get-argv.js",
+    "test2": "dirname-vs-process.js"
+  },
+  "scripts": {
+    "main": "node hello-gyp"
+  },
+  "keywords": [],
+  "author": "abschill",
+  "license": "ISC",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "nan": "^2.15.0"
+  },
+  "gypfile": true
+}
